@@ -9,3 +9,8 @@
 	url = git@github.com:IObundle/iob-cache.git
 
 
+[submodule "submodules/KNN"]
+	path = submodules/KNN
+	url = git@github.com:bocherteric/iob-knn.git
+
+
