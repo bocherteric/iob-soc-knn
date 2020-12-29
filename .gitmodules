@@ -14,3 +14,6 @@
 	url = git@github.com:bocherteric/iob-knn.git
 
 
+[submodule "submodules/TIMER"]
+	path = submodules/TIMER
+	url = git@github.com:bocherteric/iob-timer.git
